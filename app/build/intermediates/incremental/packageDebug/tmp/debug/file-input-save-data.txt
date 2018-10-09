@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Oct 07 15:11:38 PDT 2018
+0.baseType=DIRECTORY
+0.base=/annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

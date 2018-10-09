@@ -1,0 +1,4 @@
+#Sun Oct 07 15:11:38 PDT 2018
+base.0=/annex/Number53/Documents/Teaching/2018_Fall_CS371/lab7/CS371PigGameStarter/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
