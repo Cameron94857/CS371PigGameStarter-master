@@ -52,7 +52,7 @@ public abstract class LocalGame implements Game, Tickable {
 	// the players are ready to start
 	private boolean[] playersReady;
 	private int playerReadyCount = 0; // number of players who are ready to start the game
-	
+
 	// the players which have acknowledged that the game is over
 	private boolean[] playersFinished;
 	private int playerFinishedCount = 0; // number of player who have so acknowledged
